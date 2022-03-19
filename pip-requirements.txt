@@ -11,3 +11,6 @@ aiohttp[speedups]==3.6.2
 uvloop==0.14.0
 ujson==1.35
 aiogram==2.5.3
+pyTelegramBotAPI==4.4.0
+telebot==0.0.4
+wheel==0.37.1
